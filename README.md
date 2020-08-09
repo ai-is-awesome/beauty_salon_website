@@ -1,9 +1,10 @@
-# one-page-website-html-css-project-for-practice
-## Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
+Beauty Salon Website
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
+
+
 
 ### 👍 HAVE FUN 👍
-Thanks, Arfan
+Thanks
 
-![Watch Now](./img/Design.jpg)
+
+<!-- (./img/Design.jpg) -->
