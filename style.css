@@ -386,6 +386,7 @@ p {
 	font-size: 20px;
 	box-shadow: ;
 	text-decoration: none !important;
+	margin-bottom: 20px;
 }
 #projects .project-img {
 	flex-basis: 50%;
